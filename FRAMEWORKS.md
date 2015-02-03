@@ -12,7 +12,7 @@ and potentially the template language of the chosen framework. The data team wil
 primarily concerned with how models are handled in the chosen framework, along with
 the provided ORM.
 
-
+- - - -
 
 ### [Spring.io] ([spring-boot])
 - Main Language: Java
@@ -30,7 +30,7 @@ Disadvantages:
   each modification even if just to test something
 - Much more code will be required in comparison to ruby/javascript
 
-
+- - - -
 
 ### [Rails]
 - Main Language: Ruby
@@ -47,7 +47,7 @@ Disadvantages:
   - Tools like [Vagrant] could make this painless and actually convenient, but
     some machines/laptops may not be powerful enough to host a virtual machine
 
-
+- - - -
 
 ### [Node] + [Express]
 - Main Language: Javascript
@@ -62,7 +62,7 @@ Disadvantages:
 - Same potential virtualization issues as mentioned above for Rails
 - Node's single-threaded nature can cause it to suffer under heavy load
 
-
+- - - -
 
 ### Other options
 A few other options that I don't personally have much experience with:
