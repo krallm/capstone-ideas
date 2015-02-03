@@ -20,12 +20,12 @@ the provided ORM.
 
 Advantages:
 - We all should be familiar with Java
-- [Spring.io]'s subprojects should offer most of the desired functionality
+- Spring.io's subprojects should offer most of the desired functionality
 - Java is statically typed, eliminating potential runtime errors
 
 Disadvantages:
 - Not as convention-based as the other options
-- JPA can make ORM kinda complex in comparison to [ActiveRecord]
+- JPA can make ORM kinda complex in comparison to ActiveRecord
 - Java is statically typed, meaning the server will have to be rebuilt for
   each modification even if just to test something
 - Much more code will be required in comparison to ruby/javascript
@@ -73,6 +73,7 @@ A few other options that I don't personally have much experience with:
 [ActiveRecord]:http://guides.rubyonrails.org/active_record_querying.html
 [Django]:https://www.djangoproject.com/
 [Express]:http://expressjs.com/
+[Haml]:http://haml.info/
 [Jade]:http://jade-lang.com/
 [Laravel]:http://laravel.com/
 [Meteor]:https://www.meteor.com/
